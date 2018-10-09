@@ -9,7 +9,7 @@
 
 ## 一、整体流程
 
-![](/home/lhq/project/FDDC2_IE/答辩/pics/gogogo_liucheng.jpg)
+![](pics/gogogo_liucheng.jpg)
 
 
 
@@ -17,7 +17,7 @@
 
 本次采用的是从HTML文件开始，在提取过程种保留了HTML的文档的结构，主要是标题，层次结构，表格信息等。
 
-![](/home/lhq/project/FDDC2_IE/答辩/pics/gogogo_htmltable.jpg)
+![](pics/gogogo_htmltable.jpg)
 
 工具(Tools)：Beautifulsoup
 
@@ -47,7 +47,7 @@
 
 这里要注意，表格的描述信息应该加入到表格的判断中来。
 
-![](/home/lhq/project/FDDC2_IE/答辩/pics/gogogo_tableprocess.jpg)
+![](pics/gogogo_tableprocess.jpg)
 
 
 
@@ -61,7 +61,7 @@
 
 在标注的时候注意实体间的关系，主键需要在统一句话中才标注，其他属性与部分主键同时出现才标注，这样可以控制标注数据集的假阳性。
 
-![](/home/lhq/project/FDDC2_IE/答辩/pics/gogogo_entity.jpg)
+![](pics/gogogo_entity.jpg)
 
 
 
@@ -101,7 +101,7 @@
 
 4、篇章语义：复杂文档会根据目录结构选择性阅读，而非整篇通读。
 
-![](/home/lhq/project/FDDC2_IE/答辩/pics/gogogo_chapter.jpg)
+![](pics/gogogo_chapter.jpg)
 
 
 
