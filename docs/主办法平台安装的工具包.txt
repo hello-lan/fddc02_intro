@@ -1,0 +1,30 @@
+1） 分词、词性标注、命名实体识别、语法分析
+
+jieba HanLP
+
+2）序列标注模型条件随机场 
+
+python-crfsuite hmmlearn
+
+3）深度学习
+
+tensorflow karas pyTorch
+
+4）词向量
+
+gensim word2vec（可提供预训练好的词向量模型）
+
+5）机器学习和nlp综合
+
+sklearn NLTK
+
+
+6）其他（2018/07/04更新）
+
+xgboost，lightgbm，easydict，MulticoreTSNE，mxnet，pyquery，pyltp，
+
+BeautifulSoup, html2text, fasttext, pdfminer.six, htmlparser, TextRank4ZH, foolnltk
+
+tabula-py，lxml，keras-contrib，openpyxl，xlrd
+
+python-Levenshtein
