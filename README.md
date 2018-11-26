@@ -5,6 +5,8 @@
 
 [比赛链接](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231659)
 
+[训练数据](https://pan.baidu.com/s/1xnDz8bcuAGKsZUm9BvS8YQ)
+
 一些选手的解决方案：
 
 - [智能ABC](https://github.com/mrgjbd/fddc02)
