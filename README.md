@@ -7,6 +7,8 @@
 
 [训练数据](https://pan.baidu.com/s/1xnDz8bcuAGKsZUm9BvS8YQ)
 
+[答辩视频](https://pan.baidu.com/s/1AfrEiG4jFby3dzdvzO-oGw)
+
 一些选手的解决方案：
 
 - [智能ABC](https://github.com/mrgjbd/fddc02)
